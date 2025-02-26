@@ -14,7 +14,7 @@ This repository contains resources to help students learn about using the Mapbox
 This code is provided to help with learning the following concepts:
 
 1. **Introduction to adding map elements**
-   - Add and position map elements available within the Mapbox GL JS library
+   - Add and position a basic HTML legend and map controls available within the Mapbox GL JS library [(including geocoder plug-in)](https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-geocoder/)
 
 2. **Adding a legend using HTML and CSS (basic version)**
    - Hardcode labels and colours that correspond to the choropleth map using HTML
