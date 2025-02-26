@@ -1,5 +1,5 @@
 # GGR472 Week 8 demo (1): Adding basic elements to the map
-
+dsfsfd
 This repository contains resources to help students learn about using the Mapbox GL JS library to add and move map elements, and to incorporate a basic legend using HTML.
 
 ## Repository Contents
